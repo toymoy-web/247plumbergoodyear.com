@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://247plumbergoodyear.com/sitemap.xml

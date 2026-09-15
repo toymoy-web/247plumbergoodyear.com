@@ -1,0 +1,2 @@
+# No redirect rules needed -- Cloudflare Pages resolves clean URLs and
+# directory index files natively. Keep this file comment-only.
